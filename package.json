@@ -29,6 +29,8 @@
   },
   "scripts": {
     "dev": "NODE_ENV=dev node src/main.js",
-    "dev-webpack": "webpack serve --mode=development --hot --port=3008"
+    "dev-webpack": "webpack serve --mode=development --hot --port=3008",
+    "build": "webpack --mode=development",
+    "serve": "node src/main.js"
   }
 }
