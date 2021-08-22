@@ -1,0 +1,14 @@
+vars {
+  monetary $value
+  account  $user
+}
+
+send $value (
+  source = @world
+  destination = @mint
+)
+
+send $value (
+  source = @mint
+  destination = $user
+)

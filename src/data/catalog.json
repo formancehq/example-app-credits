@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Basic Confetti Cannon",
+      "price": ["COIN", 150],
+      "description": "Single use. Thing to celebrate for not included."
+    },
+    {
+      "id": "2",
+      "title": "Huge Confetti Cannon",
+      "price": ["COIN", 500],
+      "description": "Recommended for celebrating your first use of Numary."
+    },
+    {
+      "id": "3",
+      "title": "Fireworks Cannon",
+      "price": ["COIN", 1500],
+      "description": "When confetti are not enough. Worth every penny."
+    }
+  ]
+}

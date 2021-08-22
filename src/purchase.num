@@ -1,0 +1,15 @@
+vars {
+  monetary $price
+  account  $payment
+  account  $user
+}
+
+send $price (
+  source = $user
+  destination = $payment
+)
+
+send $price (
+  source = $payment
+  destination = @store:bank
+)
