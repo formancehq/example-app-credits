@@ -3670,10 +3670,10 @@ nth-check@^2.0.0:
   dependencies:
     boolbase "^1.0.0"
 
-numary@^1.0.0-alpha.2:
-  version "1.0.0-alpha.2"
-  resolved "https://registry.yarnpkg.com/numary/-/numary-1.0.0-alpha.2.tgz#dce1e0692f0cf47aa8617124b30c4d0eef289a67"
-  integrity sha512-Uzgd6/Q0tgSlynLEnJzkBshKu+w5sJ5vyVncKuvj3AecvfWSysAk6UMjZ2AV6SF1Fcmjw75HhVSHb1cWmdXm3Q==
+numary@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/numary/-/numary-1.0.0.tgz#a21ebeef62513debf9152bb6b44d65ce05fbe4a4"
+  integrity sha512-2VywRBd9V7vkGla7dvMspt3iq5FE82ZmvmyCTfL3rm4GyDFH9w7KLyVb6KGZcr9HjBylYIQvt9jURudsMHoXIQ==
   dependencies:
     axios "^0.21.1"
     json-schema-to-typescript "^10.1.4"
